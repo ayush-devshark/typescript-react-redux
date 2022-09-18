@@ -1,0 +1,16 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Jogging",
+      "dateStart": "2022-09-18T17:40:49.874Z",
+      "dateEnd": "2022-09-18T18:40:49.874Z"
+    },
+    {
+      "title": "Learning ts",
+      "dateStart": "2022-09-18T17:42:49.874Z",
+      "dateEnd": "2022-09-18T18:45:49.874Z",
+      "id": 2
+    }
+  ]
+}
