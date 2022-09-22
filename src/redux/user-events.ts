@@ -2,7 +2,7 @@ import { RootState } from './store';
 import { Action } from 'redux';
 import { ThunkAction } from 'redux-thunk';
 
-interface UserEvent {
+export interface UserEvent {
   id: number;
   title: string;
   dateStart: string;
